@@ -1,0 +1,4 @@
+src=$PWD CD=. filter="*.h *.cpp" {
+ mainwindow.h
+ mainwindow.cpp
+}
